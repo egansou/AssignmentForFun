@@ -1,9 +1,10 @@
 package CollectionsTests;
 
-import Collections.ArrayLists;
-import org.junit.Assert;
+import org.junit.Assert; 
 import org.junit.Before;
 import org.junit.Test;
+
+import Collections.ArrayLists;
 
 import java.util.ArrayList;
 
