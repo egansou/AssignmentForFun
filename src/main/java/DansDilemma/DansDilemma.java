@@ -62,8 +62,7 @@ public class DansDilemma {
     			}   		
         	}
     	}
-    	
-    	//System.out.println(values.size());
+ 
         return values.size();
     }
 }
