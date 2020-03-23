@@ -28,7 +28,7 @@ public class ArrayLists {
 			Iterator<Integer> itr = original.iterator();
 			while (itr.hasNext()) {
 				Integer number = itr.next();
-				if (number % 2 == toRemove) {
+				if (number == toRemove) {
 					original.remove(number);
 				}
 			}
